@@ -8,7 +8,7 @@ permalink: "/lecture-1-problems-and-problem-instances/"
 
 # {{ page.title | escape }}
 
-## What is a Problem?
+## 1. What is a Problem?
 
 A problem is a task or objective that requires a solution.
 
@@ -35,7 +35,7 @@ Input: `Three numbers`
 
 Output: `Largest number`
 
-## Characteristics of a Good Problem Statement
+## 2. Characteristics of a Good Problem Statement
 
 A well-defined problem should clearly specify:
 
@@ -76,3 +76,58 @@ Input: `A positive number`
 Output: `Square root`
 
 Constraint: `Number ≥ 0`
+
+## 3. What is a Computational Problem?
+
+A computational problem is a problem that can be solved by a computer through a sequence of steps.
+
+Computers cannot understand vague instructions such as: `Make me happy` or `Write something beautiful`, because they lack precise input-output specifications. Computational problems must be clearly defined.
+
+#### **Example:**
+
+Problem: `Calculate factorial of a number.`
+
+Input: `Integer n`
+
+Output: `n!`
+
+## 4. Problem vs Solution
+
+The problem tells us what needs to be done. The solution tells us how it will be done.
+
+#### **Example:**
+
+Problem: `Find largest among three numbers.`
+
+Solution: `Compare numbers and return the maximum.`
+
+## 5. What is a Problem Instance?
+
+A problem instance is a specific example of a problem obtained by supplying actual input values.
+
+**Definition:** A problem instance is a particular case of a problem with concrete input data.
+
+#### **Example 1:**
+
+Problem: `Add two numbers.`
+
+Problem Instances:
+
+```
+5 + 10
+100 + 250
+7 + 3
+```
+
+All are different instances of the same problem.
+
+#### **Example 2:**
+
+Problem: `Find maximum among three numbers.`
+
+Instances:
+```
+10, 20, 15
+50, 12, 7
+90, 90, 20
+```
