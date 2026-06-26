@@ -31,5 +31,19 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td><time datetime="2026-06-25">June 25, 2026</time></td>
+            <td>Lecture 2: Generalization and Special Cases of Problems</td>
+            <td>
+                <a href="{{ '/lecture-2-generalization-and-special-cases-of-problems/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td>
+                <a href="{{ '/exercise-1-01/' | relative_url }}">
+                    Exercise 1.01
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
