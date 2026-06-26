@@ -1,15 +1,14 @@
 title: "SEC101: PROBLEM SOLVING TECHNIQUES"
-email: your-email@example.com
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  SEC101: Problem Solving Techniques is a foundation-level course designed to develop computational thinking and structured problem-solving skills using the C programming language. The course introduces students to the systematic process of analyzing problems, designing algorithms, representing solutions through pseudocode and flowcharts, and implementing efficient programs in C. Students learn fundamental programming constructs, including sequence, selection, iteration, functions, arrays, strings, recursion, and basic debugging techniques. Emphasis is placed on algorithmic reasoning, modular program design, testing, and good coding practices through extensive hands-on laboratory exercises. By the end of the course, students will be able to formulate computational solutions to real-world problems, translate algorithms into reliable C programs, and build a strong foundation for advanced computing and software development courses.
+
 
 url: "https://shubham-choudhury.github.io"
 baseurl: "/SEC101-PROBLEM-SOLVING-TECHNIQUES"
 
-twitter_username: jekyllrb
-github_username: jekyll
+# twitter_username: jekyllrb
+# github_username: jekyll
 
 # Build settings
 theme: minima
