@@ -45,5 +45,16 @@ layout: base
                 </a>
             </td>
         </tr>
+        <tr>
+            <td><time datetime="2026-06-29">June 29, 2026</time></td>
+            <td>Lecture 3: Types of Computational Problems</td>
+            <td>
+                <a href="{{ '/lecture-3-types-of-computational-problems/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td>
+            </td>
+        </tr>
     </tbody>
 </table>
