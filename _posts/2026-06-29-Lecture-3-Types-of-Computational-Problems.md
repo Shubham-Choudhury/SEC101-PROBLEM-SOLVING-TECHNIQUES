@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Lecture 3: Types of Computational Problems"
-date: 2026-06-25 09:00:00 +0530
+date: 2026-06-29 08:50:00 +0530
 categories: jekyll update
 permalink: "/lecture-3-types-of-computational-problems/"
 ---
