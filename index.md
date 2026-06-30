@@ -56,7 +56,7 @@ layout: base
             <td>
             </td>
         </tr>
-        <!-- <tr>
+        <tr>
             <td><time datetime="2026-06-30">June 30, 2026</time></td>
             <td>Lecture 4: Classification of Computational Problems</td>
             <td>
@@ -68,6 +68,17 @@ layout: base
                 <a href="{{ '/exercise-1-02/' | relative_url }}">
                     Exercise 1.02
                 </a>
+            </td>
+        </tr>
+        <!-- <tr>
+            <td><time datetime="2026-07-01">July 01, 2026</time></td>
+            <td>Lecture 5: Problem Analysis</td>
+            <td>
+                <a href="{{ '/lecture-5-problem-analysis/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td>
             </td>
         </tr> -->
     </tbody>
