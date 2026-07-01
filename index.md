@@ -70,11 +70,22 @@ layout: base
                 </a>
             </td>
         </tr>
-        <!-- <tr>
+        <tr>
             <td><time datetime="2026-07-01">July 01, 2026</time></td>
             <td>Lecture 5: Problem Analysis</td>
             <td>
                 <a href="{{ '/lecture-5-problem-analysis/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td>
+            </td>
+        </tr>
+        <!-- <tr>
+            <td><time datetime="2026-07-02">July 02, 2026</time></td>
+            <td>Lecture 6: Solution Approaches and Algorithm Development</td>
+            <td>
+                <a href="{{ '/lecture-6-solution-approaches-and-algorithm-development/' | relative_url }}">
                     View Notes
                 </a>
             </td>
