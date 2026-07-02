@@ -81,11 +81,22 @@ layout: base
             <td>
             </td>
         </tr>
-        <!-- <tr>
+        <tr>
             <td><time datetime="2026-07-02">July 02, 2026</time></td>
             <td>Lecture 6: Solution Approaches and Algorithm Development</td>
             <td>
                 <a href="{{ '/lecture-6-solution-approaches-and-algorithm-development/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td>
+            </td>
+        </tr>
+        <!-- <tr>
+            <td><time datetime="2026-07-03">July 03, 2026</time></td>
+            <td>Lecture 7: Analysis of Algorithms – Efficiency, Correctness, and Role of Data Structures</td>
+            <td>
+                <a href="{{ '/lecture-7-analysis-of-algorithms-efficiency-correctness-and-role-of-data-structures/' | relative_url }}">
                     View Notes
                 </a>
             </td>
