@@ -106,7 +106,7 @@ layout: base
             <td>
             </td>
         </tr>
-        <!-- <tr>
+        <tr>
             <td><time datetime="2026-07-06">July 06, 2026</time></td>
             <td>Lecture 8: Problem-Solving Steps – Understand, Plan, Execute, and Review</td>
             <td>
@@ -116,8 +116,8 @@ layout: base
             </td>
             <td>
             </td>
-        </tr> -->
-        <!-- <tr>
+        </tr>
+        <tr>
             <td><time datetime="2026-07-07">July 07, 2026</time></td>
             <td>Lecture 9: Breaking Problems into Subproblems (Problem Decomposition)</td>
             <td>
@@ -127,8 +127,8 @@ layout: base
             </td>
             <td>
             </td>
-        </tr> -->
-        <!-- <tr>
+        </tr>
+        <tr>
             <td><time datetime="2026-07-08">July 08, 2026</time></td>
             <td>Lecture 10: Input/Output Specification, Input Validation, Preconditions, and Postconditions</td>
             <td>
@@ -138,6 +138,20 @@ layout: base
             </td>
             <td>
             </td>
-        </tr> -->
+        </tr>
+        <tr>
+            <td colspan="4"><center>UNIT II: Structured Programming, Data Representation and C Basics</center></td>
+        </tr>
+        <tr>
+            <td><time datetime="2026-07-09">July 09, 2026</time></td>
+            <td>Lecture 11: Introduction to Structured Programming – Sequence, Selection, and Repetition</td>
+            <td>
+                <a href="{{ '/lecture-11-introduction-to-structured-programming-sequence-selection-and-repetition/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td>
+            </td>
+        </tr>
     </tbody>
 </table>
