@@ -22,6 +22,9 @@ layout: base
     </thead>
     <tbody>
         <tr>
+            <td colspan="4"><center>UNIT I: Problems, Algorithms and Problem-Solving Process</center></td>
+        </tr>
+        <tr>
             <td><time datetime="2026-06-24">June 24, 2026</time></td>
             <td>Lecture 1: Problems and Problem Instances</td>
             <td>
@@ -119,6 +122,17 @@ layout: base
             <td>Lecture 9: Breaking Problems into Subproblems (Problem Decomposition)</td>
             <td>
                 <a href="{{ '/lecture-9-breaking-problems-into-subproblems--problem-decomposition/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td>
+            </td>
+        </tr> -->
+        <!-- <tr>
+            <td><time datetime="2026-07-08">July 08, 2026</time></td>
+            <td>Lecture 10: Input/Output Specification, Input Validation, Preconditions, and Postconditions</td>
+            <td>
+                <a href="{{ '/lecture-10-input-output-specification-input-validation-preconditions-and-postconditions/' | relative_url }}">
                     View Notes
                 </a>
             </td>
