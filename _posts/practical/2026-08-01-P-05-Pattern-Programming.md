@@ -8,7 +8,9 @@ permalink: "/practical/pattern-programming/"
 
 # {{ page.title | escape }}
 
-1. Print:
+## **NOTE:** The program should take the number of rows as input from the user.
+
+1. Write a program to print the following right-angled triangle star pattern using nested loops:
 
    ```
     *
@@ -18,7 +20,7 @@ permalink: "/practical/pattern-programming/"
     *****
    ```
 
-2. Print:
+2. Write a program to print the following inverted right-angled triangle star pattern using nested loops:
 
    ```
     *****
@@ -28,7 +30,7 @@ permalink: "/practical/pattern-programming/"
     *
    ```
 
-3. Print:
+3. Write a program to print the following right-angled number triangle pattern using nested loops:
 
    ```
     1
@@ -38,7 +40,7 @@ permalink: "/practical/pattern-programming/"
     12345
    ```
 
-4. Print:
+4. Write a program to print the following pattern using nested loops:
 
    ```
     1
@@ -48,7 +50,7 @@ permalink: "/practical/pattern-programming/"
     55555
    ```
 
-5. Print:
+5. Write a program to print the following inverted right-angled number triangle pattern using nested loops:
 
    ```
     12345
@@ -58,7 +60,7 @@ permalink: "/practical/pattern-programming/"
     1
    ```
 
-6. Print:
+6. Write a program to print the following right-aligned right-angled triangle star pattern using nested loops:
 
    ```
         *
@@ -68,7 +70,7 @@ permalink: "/practical/pattern-programming/"
     *****
    ```
 
-7. Print:
+7. Write a program to print the following palindromic number triangle pattern using nested loops:
 
    ```
     1
@@ -78,7 +80,7 @@ permalink: "/practical/pattern-programming/"
     123454321
    ```
 
-8. Print:
+8. Write a program to print the following number triangle pattern using nested loops:
 
    ```
     5
@@ -88,7 +90,7 @@ permalink: "/practical/pattern-programming/"
     12345
    ```
 
-9. Print:
+9. Write a program to print the following continuous number matrix using nested loops:
 
    ```
     1 2 3 4 5
@@ -98,7 +100,7 @@ permalink: "/practical/pattern-programming/"
     21 22 23 24 25
    ```
 
-10. Print:
+10. Write a program to print the following inverted odd-number triangle pattern using nested loops:
 
     ```
     1 3 5 7 9
@@ -108,7 +110,7 @@ permalink: "/practical/pattern-programming/"
     9
     ```
 
-11. Print:
+11. Write a program to print the following right-shifted square star pattern using nested loops:
 
     ```
     *****
@@ -118,7 +120,7 @@ permalink: "/practical/pattern-programming/"
         *****
     ```
 
-12. Print:
+12. Write a program to print the following right-aligned square star pattern using nested loops:
 
     ```
         *****
@@ -128,7 +130,7 @@ permalink: "/practical/pattern-programming/"
     *****
     ```
 
-13. Print:
+13. Write a program to print the following centered star pyramid pattern using nested loops:
 
     ```
         *
@@ -138,7 +140,7 @@ permalink: "/practical/pattern-programming/"
     *********
     ```
 
-14. Print:
+14. Write a program to print the following inverted centered star pyramid pattern using nested loops:
 
     ```
     *********
@@ -148,7 +150,7 @@ permalink: "/practical/pattern-programming/"
         *
     ```
 
-15. Print:
+15. Write a program to print the following hollow centered star pyramid pattern using nested loops:
 
     ```
         *
@@ -158,7 +160,7 @@ permalink: "/practical/pattern-programming/"
     *********
     ```
 
-16. Print:
+16. Write a program to print the following inverted hollow centered star pyramid pattern using nested loops:
 
     ```
     *********
@@ -168,7 +170,7 @@ permalink: "/practical/pattern-programming/"
         *
     ```
 
-17. Print:
+17. Write a program to print the following diamond-shaped star pattern using nested loops:
 
     ```
     *
@@ -182,7 +184,7 @@ permalink: "/practical/pattern-programming/"
     *
     ```
 
-18. Print:
+18. Write a program to print the following right-aligned diamond-shaped star pattern using nested loops:
 
     ```
         *
@@ -196,7 +198,7 @@ permalink: "/practical/pattern-programming/"
         *
     ```
 
-19. Print:
+19. Write a program to print the following centered diamond star pattern using nested loops:
 
     ```
         *
@@ -210,7 +212,7 @@ permalink: "/practical/pattern-programming/"
         *
     ```
 
-20. Print:
+20. Write a program to print the following star pattern using nested loops:
 
     ```
     *****

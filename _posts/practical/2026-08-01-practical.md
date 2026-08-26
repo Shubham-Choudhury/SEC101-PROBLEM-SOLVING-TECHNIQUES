@@ -24,4 +24,19 @@ permalink: "/practical/"
     <li>
         <a href="{{ '/practical/pattern-programming/' | relative_url }}">Pattern Programming</a>
     </li>
+    <li>
+        <a href="{{ '/practical/arithmetic-progression/' | relative_url }}">Arithmetic Progression</a>
+    </li>
+    <li>
+        <a href="{{ '/practical/geometric-progression/' | relative_url }}">Geometric Progression</a>
+    </li>
+    <li>
+        <a href="{{ '/practical/fibonacci-and-tribonacci/' | relative_url }}">Fibonacci & Tribonacci</a>
+    </li>
+    <li>
+        <a href="{{ '/practical/taylor-series/' | relative_url }}">Taylor Series</a>
+    </li>
+    <li>
+        <a href="{{ '/practical/digit-extraction/' | relative_url }}">Digit Extraction</a>
+    </li>
 </ol>
