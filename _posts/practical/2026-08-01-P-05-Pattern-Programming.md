@@ -225,3 +225,53 @@ permalink: "/practical/pattern-programming/"
     ****
     *****
     ```
+
+21. Write a program to print the following star pattern using nested loops:
+
+    ```
+    *****
+     ****
+      ***
+       **
+        *
+       **
+      ***
+     ****
+    *****
+    ```
+
+22. Write a program to print the following star pattern using nested loops:
+
+    ```
+    *********
+     *******
+      *****
+       ***
+        *
+       ***
+      *****
+     *******
+    *********
+    ```
+
+23. Write a program to print the following hollow square star pattern using nested loops:
+
+    ```
+    *****
+    *   *
+    *   *
+    *   *
+    *****
+    ```
+
+24. Write a program to print the following spiral number pattern using nested loops:
+
+    ```
+    1   2   3   4   5
+    16  17  18  19  6
+    15  24  25  20  7
+    14  23  22  21  8
+    13  12  11  10  9
+    ```
+
+<a href="{{ '/practical/pattern-programming-solutions/' | relative_url }}">Solutions</a>
