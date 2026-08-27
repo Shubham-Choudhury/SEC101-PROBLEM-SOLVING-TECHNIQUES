@@ -106,5 +106,38 @@ layout: base
             <td>
             </td>
         </tr>
+        <tr>
+            <td><time datetime="2026-07-06">July 06, 2026</time></td>
+            <td>Lecture 8: Problem-Solving Steps – Understand, Plan, Execute, and Review</td>
+            <td>
+                <a href="{{ '/lecture-8-problem-solving-steps-understand-plan-execute-and-review/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td><time datetime="2026-07-07">July 07, 2026</time></td>
+            <td>Lecture 9: Breaking Problems into Subproblems (Problem Decomposition)</td>
+            <td>
+                <a href="{{ '/lecture-9-breaking-problems-into-subproblems--problem-decomposition/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td><time datetime="2026-07-08">July 08, 2026</time></td>
+            <td>Lecture 10: Input/Output Specification, Input Validation, Preconditions, and Postconditions</td>
+            <td>
+                <a href="{{ '/lecture-10-input-output-specification-input-validation-preconditions-and-postconditions/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td>
+            </td>
+        </tr>
     </tbody>
 </table>
