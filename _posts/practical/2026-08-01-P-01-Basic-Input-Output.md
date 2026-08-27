@@ -18,3 +18,5 @@ permalink: "/practical/basic-input-output/"
 8. Convert a given number of seconds into hours, minutes and seconds.
 9. Calculate simple interest.
 10. Calculate compound interest.
+
+<a href="{{ '/practical/basic-input-output-solutions/' | relative_url }}">Solutions</a>
