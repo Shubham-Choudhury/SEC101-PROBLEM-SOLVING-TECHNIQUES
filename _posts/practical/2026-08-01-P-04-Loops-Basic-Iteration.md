@@ -8,25 +8,25 @@ permalink: "/practical/loops-basic-iteration/"
 
 # {{ page.title | escape }}
 
-1. Display numbers from 1 to n.
+1. Write a program to display numbers from $1$ to $n$ using loop.
 
-2. Display numbers from n to 1.
+2. Write a program to display numbers from $n$ to $1$ using loop.
 
-3. Display all even numbers from 1 to n.
+3. Write a program to display all even numbers from $1$ to $n$ using loop.
 
-4. Display all odd numbers from 1 to n.
+4. Write a program to display all odd numbers from $1$ to $n$ using loop.
 
-5. Find the sum of numbers from 1 to n.
+5. Write a program to find the sum of numbers from $1$ to $n$ using while loop.
 
-6. Find the sum of all even numbers from 1 to n.
+6. Write a program to find the sum of all even numbers from $1$ to $n$ using do-while loop.
 
-7. Find the sum of all odd numbers from 1 to n.
+7. Write a program to find the sum of all odd numbers from $1$ to $n$ using loop.
 
-8. Find the sum of squares from 1 to n.
+8. Write a program to find the sum of squares from $1$ to $n$ using loop.
 
-9. Find the sum of cubes from 1 to n.
+9. Write a program to find the sum of cubes from $1$ to $n$ using loop.
 
-10. Display the square and cube of numbers from 1 to n in tabular form.
+10. Write a program to display the square and cube of numbers from $1$ to $n$ in tabular form  using loop.
 
     Example:
 
@@ -36,3 +36,5 @@ permalink: "/practical/loops-basic-iteration/"
     2         4         8
     3         9         27
     ```
+
+<a href="{{ '/practical/loops-basic-iteration-solutions/' | relative_url }}">Solutions</a>
