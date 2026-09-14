@@ -37,6 +37,6 @@ permalink: "/practical/"
         <a href="{{ '/practical/taylor-series/' | relative_url }}">Taylor Series</a>
     </li>
     <li>
-        <a href="{{ '/practical/digit-extraction/' | relative_url }}">Digit Extraction</a>
+        <a href="{{ '/practical/number-problems/' | relative_url }}">Number Problems</a>
     </li>
 </ol>
