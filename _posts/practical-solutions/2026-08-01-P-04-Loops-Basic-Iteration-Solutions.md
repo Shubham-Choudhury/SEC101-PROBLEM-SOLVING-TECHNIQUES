@@ -3,7 +3,7 @@ layout: base
 title: "Loops - Basic Iteration Solutions"
 date: 2026-06-29 09:00:00 +0530
 categories: jekyll update
-permalink: "/practical/loops-basic-iteration-solutions/"
+permalink: "/practical/blocked-solutions/loops-basic-iteration-solutions/"
 ---
 
 # {{ page.title | escape }}

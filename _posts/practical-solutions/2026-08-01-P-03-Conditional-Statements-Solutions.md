@@ -3,7 +3,7 @@ layout: base
 title: "Conditional Statements Solutions"
 date: 2026-06-29 09:00:00 +0530
 categories: jekyll update
-permalink: "/practical/conditional-statements-solutions/"
+permalink: "/practical/blocked-solutions/conditional-statements-solutions/"
 ---
 
 # {{ page.title | escape }}

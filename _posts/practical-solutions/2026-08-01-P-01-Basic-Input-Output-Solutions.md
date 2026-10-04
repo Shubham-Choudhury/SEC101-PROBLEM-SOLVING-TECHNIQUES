@@ -3,7 +3,7 @@ layout: base
 title: "Basic Input/Output Solutions"
 date: 2026-06-29 09:00:00 +0530
 categories: jekyll update
-permalink: "/practical/basic-input-output-solutions/"
+permalink: "/practical/blocked-solutions/basic-input-output-solutions/"
 ---
 
 # {{ page.title | escape }}

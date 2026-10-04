@@ -3,7 +3,7 @@ layout: base
 title: "Arithmetic Progression Solutions"
 date: 2026-06-29 09:00:00 +0530
 categories: jekyll update
-permalink: "/practical/arithmetic-progression-solutions/"
+permalink: "/practical/blocked-solutions/arithmetic-progression-solutions/"
 ---
 
 # {{ page.title | escape }}

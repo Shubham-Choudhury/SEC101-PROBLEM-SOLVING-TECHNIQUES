@@ -3,7 +3,7 @@ layout: base
 title: "Taylor Series Solutions"
 date: 2026-06-29 09:00:00 +0530
 categories: jekyll update
-permalink: "/practical/taylor-series-solutions/"
+permalink: "/practical/blocked-solutions/taylor-series-solutions/"
 ---
 
 # {{ page.title | escape }}

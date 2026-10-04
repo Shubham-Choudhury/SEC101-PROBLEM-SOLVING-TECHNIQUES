@@ -3,7 +3,7 @@ layout: base
 title: "Operators Solutions"
 date: 2026-06-29 09:00:00 +0530
 categories: jekyll update
-permalink: "/practical/operators-solutions/"
+permalink: "/practical/blocked-solutions/operators-solutions/"
 ---
 
 # {{ page.title | escape }}

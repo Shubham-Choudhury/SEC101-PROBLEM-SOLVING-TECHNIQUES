@@ -3,7 +3,7 @@ layout: base
 title: "Fibonacci & Tribonacci Solutions"
 date: 2026-06-29 09:00:00 +0530
 categories: jekyll update
-permalink: "/practical/fibonacci-and-tribonacci-solutions/"
+permalink: "/practical/blocked-solutions/fibonacci-and-tribonacci-solutions/"
 ---
 
 # {{ page.title | escape }}

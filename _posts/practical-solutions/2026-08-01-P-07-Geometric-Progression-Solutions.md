@@ -3,7 +3,7 @@ layout: base
 title: "Geometric Progression Solutions"
 date: 2026-06-29 09:00:00 +0530
 categories: jekyll update
-permalink: "/practical/geometric-progression-solutions/"
+permalink: "/practical/blocked-solutions/geometric-progression-solutions/"
 ---
 
 # {{ page.title | escape }}
